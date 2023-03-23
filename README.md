@@ -1,4 +1,4 @@
-# web-scraping-practice
+# Web-Scraping-Practice
 
 ## Background
 
